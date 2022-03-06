@@ -10,4 +10,4 @@ I'm originally from the beautiful island of Saint Lucia 🇱🇨, but resides in
 
 ## Find me around the web 🌎: 
 - 💼 Connecting and sharing professional updates on [linkedin](https://www.linkedin.com/in/stacy-d)
-- 👗 Style Blogging [instagram](https://www.instagram.com/_stacy_d)
+- 👗 Style Blogging [instagram](https://www.instagram.com/_stacy_d/)
