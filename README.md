@@ -1,7 +1,7 @@
 ### Hi ! 👋🏾
 
 I'm Stacy, a Full-Stack Junior Web Developer 👩🏾‍💻 and Style Blogger 👗👠 . 
-I'm originally from the beautiful island of Saint Lucia 🇱🇨, but resides in New York!
+I'm originally from the beautiful island of Saint Lucia 🇱🇨, but resides in New York 🇺🇸. 
 
 - 🔭 I’m currently working on ... updating my current projects whilst expanding my knowledge on React, JavaScript and Ruby.
 - 🌱 I’m currently learning ... algorithms.
