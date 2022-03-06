@@ -6,7 +6,7 @@ I'm originally from the beautiful island of Saint Lucia 🇱🇨, but resides in
 - 🔭 I’m currently working on ... updating my current projects whilst expanding my knowledge on React, JavaScript and Ruby.
 - 🌱 I’m currently learning ... algorithms.
 - 😄 Pronouns: ... She/Her
-- ✍🏾 Blog (https://dev.to/stacytech)
+- ✍🏾 Blog [here](https://dev.to/stacytech)
 
 
 ## Find me around the web 🌎: 
